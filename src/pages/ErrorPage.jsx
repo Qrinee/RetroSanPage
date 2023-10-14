@@ -9,7 +9,7 @@ function ErrorPage(){
             </h1>
             <p className="adress">Nie znaleziono strony.</p>
             <p>Upewnij się, że wpisany przez ciebie adres URL jest poprawny.</p>
-            <Link to="/" className="default">Powrót do strony głównej</Link>
+            <Link to="/test" className="default">Powrót do strony głównej</Link>
             </div>
         </>
     )
