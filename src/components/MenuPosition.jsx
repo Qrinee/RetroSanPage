@@ -23,8 +23,8 @@ function MenuPosition(props){
                 <button className="add-cart">Dodaj do koszyka</button>
                 }{isListShowed ? 
                 <div className="add-to-cart">
-                    <button className='size' style={{position: 'relative'}}>Średnia (32cm)</button>
-                    <button className='size' style={{position: 'relative'}}>Duża (40cm)</button>
+                    <button className='size' style={{position: 'relative', zIndex: 99}}>Średnia (32cm)</button>
+                    <button className='size' style={{position: 'relative', zIndex: 99}}>Duża (40cm)</button>
                 </div> : null}
             </div>
         </div>

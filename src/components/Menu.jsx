@@ -25,17 +25,17 @@ function Menu() {
         </Link>
       </li>
       <li>
-        <Link to="/menu" className='menu-button'>
+        <Link to="/test/menu" className='menu-button'>
           <span className="underline">menu</span>
         </Link>
       </li>
       <li>
-        <Link to="/promocje" className='menu-button'>
+        <Link to="/test/promocje" className='menu-button'>
           <span className="underline">promocje</span>
         </Link>
       </li>
       <li>
-        <Link to="/kontakt" className='menu-button'>
+        <Link to="/test/kontakt" className='menu-button'>
           <span className="underline">kontakt</span>
         </Link>
       </li>

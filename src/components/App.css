@@ -134,13 +134,46 @@ body{
 hr{
     width: 50%;
 }
+.logo{
+    width: 500px;
+}
 @media only screen and (max-width: 1050px) {
+    .menu-list{
+        display: none!important;
+    }
+    .position-text{
+        width: 100%!important;
+    }
+    .position{
+        flex-wrap: wrap!important;
+        padding: 10px;
+    }
     .opinion-holder {
         width: 100%;
     }
     .article{
         width: 80%!important;
         margin: auto;
+    }
+    .logo{
+        width: 350px;
+    }
+    .heading{
+        font-size: 30px;
+    }
+    .position-name{
+        font-size: 20px!important;
+        margin: 0!important;
+    }
+    .position-ingredients{
+        margin: 0!important;
+        margin-bottom: 10px!important;
+    }
+    .small-price, .big-price{
+        margin-bottom: 10px!important;
+    }
+    .small-price-text, .big-price-text{
+        padding: 0!important;
     }
   }
 .article{
@@ -188,7 +221,7 @@ hr{
 .heading{
     text-align: center;
     font-family: MarkProBlack;
-    font-size: 70px;
+    font-size: 50px;
 }
 .add-cart:hover{
     background-color: #df4531;
@@ -210,8 +243,9 @@ hr{
 .big-price-text, .small-price-text{
     text-wrap: nowrap;
     margin: 0;
-    padding: 0 30px;
+    padding: 0 10px;
     font-family: MarkProBold;
+
 }
 .position-text{
     width: 50%;

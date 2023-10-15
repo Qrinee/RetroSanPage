@@ -4,7 +4,7 @@ function Start(){
     return(
         <div className="block start">
             <figure>
-                <img src={Logo} width={500}></img>
+                <img src={Logo} width={500} className='logo'></img>
             </figure>
             <Link to="/menu" className='button'>złóż zamówienie</Link>
         </div>
