@@ -20,7 +20,7 @@ function Menu() {
   return (
     <ul className={`menu-list ${isScrolled ? 'scrolled' : ''}`}>
       <li>
-        <Link to="/" className='menu-button'>
+        <Link to="/test" className='menu-button'>
           <span className="underline">start</span>
         </Link>
       </li>
