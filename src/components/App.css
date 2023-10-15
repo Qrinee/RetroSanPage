@@ -138,9 +138,6 @@ hr{
     width: 500px;
 }
 @media only screen and (max-width: 1050px) {
-    .menu-list{
-        display: none!important;
-    }
     .position-text{
         width: 100%!important;
     }
