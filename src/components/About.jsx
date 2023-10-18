@@ -13,7 +13,7 @@ function About(){
                     </figure>
                     <div className='article'>
                         <p className='text'>Menu Retro San oferuje szeroki wybór pysznych, tradycyjnych pizz, przygotowywanych z najwyższą starannością i najświeższych składników. Możesz wybierać spośród klasycznych smaków, takich jak margherita, standardowa czy funghi, lub eksperymentować z unikalnymi kombinacjami, które zaskoczą Twoje podniebienie. </p>
-                        <Link to="/menu" className='button'>sprawdź menu</Link>
+                        <Link to="RetroSanPage/menu" className='button'>sprawdź menu</Link>
                     </div>
                 </div>
             </article>

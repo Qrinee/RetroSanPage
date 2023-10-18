@@ -12,20 +12,20 @@ import ErrorPage from './pages/ErrorPage.jsx'
 
 const router = createBrowserRouter([
   {
-    path: "/test",
+    path: "/RetroSanPage",
     element: <MainPage/>,
     errorElement: <ErrorPage/>
   },
   {
-    path: "test/menu",
+    path: "RetroSanPage/menu",
     element: <MenuPage/>
   },
   {
-    path: "test/promocje",
+    path: "RetroSanPage/promocje",
     element: <PromotionsPage/>
   },
   {
-    path: "test/kontakt",
+    path: "RetroSanPage/kontakt",
     element: <ContactPage/>
   }
 ])

@@ -6,7 +6,7 @@ function Start(){
             <figure>
                 <img src={Logo} width={500} className='logo'></img>
             </figure>
-            <Link to="/menu" className='button'>złóż zamówienie</Link>
+            <Link to="RetroSanPage/menu" className='button'>złóż zamówienie</Link>
         </div>
     )
 }

@@ -20,22 +20,22 @@ function Menu() {
   return (
     <ul className={`menu-list ${isScrolled ? 'scrolled' : ''}`}>
       <li>
-        <Link to="/test" className='menu-button'>
+        <Link to="/RetroSanPage" className='menu-button'>
           <span className="underline">start</span>
         </Link>
       </li>
       <li>
-        <Link to="/test/menu" className='menu-button'>
+        <Link to="/RetroSanPage/menu" className='menu-button'>
           <span className="underline">menu</span>
         </Link>
       </li>
       <li>
-        <Link to="/test/promocje" className='menu-button'>
+        <Link to="/RetroSanPage/promocje" className='menu-button'>
           <span className="underline">promocje</span>
         </Link>
       </li>
       <li>
-        <Link to="/test/kontakt" className='menu-button'>
+        <Link to="/RetroSanPage/kontakt" className='menu-button'>
           <span className="underline">kontakt</span>
         </Link>
       </li>
