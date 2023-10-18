@@ -1,9 +1,9 @@
-[link do dema](https://qrinee.github.io/test)
 
 # Strona Internetowa Pizzeria Retro San 🍕
 
-🍕 Projekt tworzony przez [Krystian/Niemczyk/Qrinee].
 
+## Demo:
+[https://qrinee.github.io/RetroSanPage](https://qrinee.github.io/RetroSanPage)
 
 
 
@@ -18,3 +18,6 @@ Ta strona internetowa jest częścią projektu Pizzeria Retro San, który ma na 
 - **Składanie Zamówień Online**: Dodawaj ulubione potrawy do koszyka i zatwierdzaj zamówienie z łatwością. Możesz dostosowywać składniki i ilość, a także wybrać formę dostawy lub odbioru osobistego. 📦🛵
 
 - **Śledzenie Zamówienia**: Po złożeniu zamówienia będziesz mógł śledzić jego status, aby wiedzieć, kiedy możesz spodziewać się dostawy lub odbioru. 📊🚚
+
+
+🍕 Projekt tworzony przez [Krystian/Niemczyk/Qrinee].
